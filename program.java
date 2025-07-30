@@ -5,7 +5,7 @@ public class program {
         System.out.println("A method changed a simple method");
     }
     public void Practice{
-    System.out.println("Hello");
+    System.out.println("HelloWorldd????");
     }
 }
  
